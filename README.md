@@ -1,5 +1,5 @@
 # MIMSID
-code for High-resolution mmWave Imaging using Metasurface and Diffusion
+code for Mobisys'25 paper: High-resolution mmWave Imaging using Metasurface and Diffusion
 
 Please refer to mmwave_Imaging_artifact.pdf for detailed instructions.
 
